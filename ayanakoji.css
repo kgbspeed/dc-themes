@@ -2195,6 +2195,11 @@ body {
   width: fit-content !important;
 }
 
+.wrapper__48112.isExpanded__48112 {
+  width: 280px !important;
+  min-width: 280px !important;
+}
+
 .wrapper__48112.isExpanded__48112 .listItem__650eb {
   width: 100% !important;
 }
